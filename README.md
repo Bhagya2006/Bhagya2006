@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm  Bhagyalakshmi</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<!--
-**Bhagya2006/Bhagya2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+🚀 About Me
+<li> 🔭 I’m currently learning **Python** </li>
+<li>🌱 I’m currently learning **Html and Css** </li>
+<li> 👯 I’m looking to collaborate on **Open Source Projects** </li>
+<li> 💬 I'm intrested in learning **Full stack development** </li>
+<li>📫 How to reach me **bagyagowda8@gmail.com** </li>
+</ul>
+ 🌐 Connect with Me
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> |
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,git" />
+
+</p>
+</p>
+
+📌 Featured Projects
+
+🔹 [Project 1](https://github.com/YOUR_USERNAME/project1_)
