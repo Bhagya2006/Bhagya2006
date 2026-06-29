@@ -6,7 +6,7 @@
 <li> 🔭 I’m currently learning **Python** </li>
 <li>🌱 I’m currently learning **Full stack web development** </li>
 <li> 👯 I’m looking to collaborate on **Open Source Projects** </li>
-<li> 💬 I'm intrested in learning **Full stack development** </li>
+<li> 💬 I'm intrested in learning **DSA in python** </li>
 <li>📫 How to reach me **bagyagowda8@gmail.com** </li>
 </ul>
  🌐 Connect with Me
