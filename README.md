@@ -4,7 +4,6 @@
 <ul>
 🚀 About Me
 <li> 🔭 I’m currently learning **Python** </li>
-<li>🌱 I’m currently learning **Full stack web development** </li>
 <li> 👯 I’m looking to collaborate on **Open Source Projects** </li>
 <li> 💬 I'm intrested in learning **DSA in python** </li>
 <li>📫 How to reach me **bagyagowda8@gmail.com** </li>
@@ -12,7 +11,7 @@
  🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/bhagya-lakshmi-94240039b?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> |
 </p>
 
 🛠️ Languages and Tools
@@ -24,6 +23,3 @@
 </p>
 </p>
 
-📌 Featured Projects
-
-🔹 [Project 1](https://github.com/YOUR_USERNAME/project1_)
