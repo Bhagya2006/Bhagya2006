@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm  Bhagyalakshmi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Python Developer | AI & Automation Enthusiast | Building Real-World Solutions</h3>
 
 <ul>
 🚀 About Me
-<li> 🔭 I’m currently learning **Python** </li>
-<li> 👯 I’m looking to collaborate on **Open Source Projects** </li>
-<li> 💬 I'm intrested in learning **DSA in python** </li>
-<li>📫 How to reach me **bagyagowda8@gmail.com** </li>
+
+<li>🌱 Currently learning Python, Django, DSA, SQL </li>
+
+<li>💻 Building AI-powered projects that solve real-world problems</li>
+
+<li>🎯 Goal: Become a Software Engineer in AI & Backend Development</li>
+
+<li>🤝 Open to Open Source Contributions and Collaborations</li>
+
+<li>📫 Reach me: bagyagowda8@gmail.com</li>
 </ul>
  🌐 Connect with Me
 
@@ -14,12 +20,17 @@
 <a href="https://www.linkedin.com/in/bhagya-lakshmi-94240039b?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> |
 </p>
 
-🛠️ Languages and Tools
+## 🛠 Languages and Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,git" />
-
+<img src="https://skillicons.dev/icons?i=python,html,css,django,git,github,vscode,mysql" />
 </p>
 </p>
+## 📊 GitHub Stats
+
+![Bhagya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagya2006&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya2006&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Bhagya2006&theme=tokyonight)
 
