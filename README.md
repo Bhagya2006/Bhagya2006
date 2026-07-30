@@ -28,9 +28,15 @@
 </p>
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagya2006&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhagya2006&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya2006&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya2006&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bhagya2006&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhagya2006&theme=tokyonight" />
+</p>
 
